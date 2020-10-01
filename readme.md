@@ -1,3 +1,9 @@
+_This is a fork of [pipwerks/PDFObject](https://github.com/pipwerks/PDFObject) created to take advantage of PRs until the upstream project was updated and published._
+
+_Since the release of PDFObject@2.2.3 this fork is no longer required and has therefore been archived. If you want to use PDFObject go to https://www.npmjs.com/package/pdfobject_
+
+-----
+
 PDFObject is a lightweight JavaScript utility for dynamically embedding PDFs in HTML documents.
 
 Copyright (c) 2008-2018 Philip Hutchison
